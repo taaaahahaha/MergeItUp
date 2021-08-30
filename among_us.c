@@ -25,6 +25,4 @@ int main()
 }
 
 
-// o among_us } ; if ($?) { .\among_us }
 // Length of longest substring possible 5
-// PS C:\Users\Hanif\Desktop\taaha\Taaha Study\Coding\c\Mergeitup>
