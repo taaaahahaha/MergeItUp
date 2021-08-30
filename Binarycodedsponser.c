@@ -33,7 +33,3 @@ int main()
     return 0;
 }
 
-// output
-// ponser.c -o Binarycodedsponser } ; if ($?) { .\Binarycodedsponser }
-// 4
-// PS C:\Users\Hanif\Desktop\taaha\Taaha Study\Coding\c\Mergeitup>
