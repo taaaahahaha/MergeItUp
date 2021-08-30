@@ -75,5 +75,3 @@ int main()
         printf("'useBrain']");
 }
 
-
-// I formatted the document in the end
