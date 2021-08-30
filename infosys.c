@@ -12,7 +12,4 @@ int main()
     return 0;
 }
 
-// output
-//  ; if ($?) { .\xd }
 // 17
-// PS C:\Users\Hanif\Desktop\taaha\Taaha Study\Coding\c\Mergeitup>
